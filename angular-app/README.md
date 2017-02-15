@@ -6,6 +6,8 @@
 
 ## Purpose
 
+https://github.com/angular-app/angular-app
+
 The idea is to **demonstrate how to write a typical, non-trivial CRUD application using AngularJS**. To showcase AngularJS in its most advantageous environment we've set out to write a simplified project management tool supporting teams using the SCRUM methodology. The sample application tries to show best practices when it comes to: folders structure, using modules, testing, communicating with a REST back-end, organizing navigation, addressing security concerns (authentication / authorization).
 
 This sample application is featured in our [book](http://goo.gl/gKEsIo) where you can find detailed description of the patterns and techniques used to write this code:
